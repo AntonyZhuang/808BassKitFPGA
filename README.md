@@ -10,4 +10,5 @@ please set file "FSM" as "Top-Level Entity" and include all files in the project
 
 Please watch this:
 
-an introduction video of this project: xxxxxx
+an introduction video of this project: [xxxxxx
+](https://youtu.be/vxkfKYSvgbQ)https://youtu.be/vxkfKYSvgbQ
